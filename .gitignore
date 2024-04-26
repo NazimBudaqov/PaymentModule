@@ -1,0 +1,20 @@
+# Compiled class files
+/target/
+
+# Dependency directories
+/bin/
+/lib/
+/build/
+
+# Application properties
+/application.properties
+
+# IDE files
+/.idea/
+/.vscode/
+
+# Logs
+/logs/
+
+# Temporary files
+/tmp/
