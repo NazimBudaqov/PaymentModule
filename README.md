@@ -17,5 +17,5 @@ To get started with using the Spring Payment Module in your Spring-based microse
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/NazimBudaqov/PaymentModule.git
+   git clone https://github.com/nazimfb/PaymentModule.git
    ```
